@@ -52,8 +52,8 @@
 			<div>
 				<div class="grid text-sm">
 					<p class="my-1"><a href="/">Home</a></p>
-					<p class="my-1"><a href="/join-waitlist/">Join Waitlist</a></p>
-					<p class="my-1"><a href="/login/">Login</a></p>
+					<p class="my-1"><a href="#">About</a></p>
+					<p class="my-1"><a href="#">Contact</a></p>
 				</div>
 			</div>
 			<div>
